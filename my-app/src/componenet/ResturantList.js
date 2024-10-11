@@ -1,5 +1,5 @@
 export const ResturantList=[
-    {
+     {
         "info": {
           "id": "427938",
           "name": "Kaati Zone Rolls & Wraps",
