@@ -82,9 +82,9 @@ body{
     color: #666;
 }
 
-.card:hover {
+/* .card:hover {
     transform: scale(1.05);
-}
+} */
 
 .resturant-card{
     display: flex;
